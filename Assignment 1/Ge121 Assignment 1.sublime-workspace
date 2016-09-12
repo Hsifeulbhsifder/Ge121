@@ -1,0 +1,708 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"glo",
+				"globalBackBuffer"
+			],
+			[
+				"mo",
+				"monitorRefreshHz"
+			],
+			[
+				"sizeof",
+				"sizeofStr"
+			],
+			[
+				"Co",
+				"CompilerFlags"
+			],
+			[
+				"Comm",
+				"CommonLinkerFlags"
+			],
+			[
+				"new",
+				"newGamepad"
+			],
+			[
+				"_",
+				"__OEMspecific__"
+			],
+			[
+				"zero",
+				"zeroedKeyboardGamepad"
+			],
+			[
+				"DEBUG",
+				"DEBUGPlatformFreeFileMemory"
+			],
+			[
+				"byte",
+				"bytesWritten"
+			],
+			[
+				"MEM_RE",
+				"MEM_RESERVE"
+			],
+			[
+				"total",
+				"totalStorageSize"
+			],
+			[
+				"soun",
+				"soundIsValid"
+			],
+			[
+				"per",
+				"perfCountFrequency"
+			],
+			[
+				"S16",
+				"S16_MAX"
+			],
+			[
+				"byt",
+				"bytesPerSample"
+			],
+			[
+				"laten",
+				"latencySampleCount"
+			],
+			[
+				"Win32",
+				"Win32BufferAudio"
+			],
+			[
+				"regi",
+				"region2Size"
+			],
+			[
+				"Ou",
+				"OutputDebugStringA"
+			],
+			[
+				"squa",
+				"squareWavePeriod"
+			],
+			[
+				"sq",
+				"squareWavePeriod"
+			],
+			[
+				"play",
+				"playCursor"
+			],
+			[
+				"bytest",
+				"bytesToLock"
+			],
+			[
+				"write",
+				"writeCursor"
+			],
+			[
+				"sample",
+				"samplesPerSec"
+			],
+			[
+				"square",
+				"squareWaveCounter"
+			],
+			[
+				"regio",
+				"region1"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"global",
+				"globalBackBuffer"
+			],
+			[
+				"glDraw",
+				"glDrawPixels"
+			],
+			[
+				"by",
+				"bytesPerPixel"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"windoH",
+				"windowHeight"
+			],
+			[
+				"Glo",
+				"globalRunning"
+			],
+			[
+				"hit",
+				"hitCount"
+			],
+			[
+				"type",
+				"typedef"
+			],
+			[
+				"__",
+				"__init_asm_counters__"
+			],
+			[
+				"deadBa",
+				"deadbandMaxPwm"
+			],
+			[
+				"hardw",
+				"hardwareSystem"
+			],
+			[
+				"hard",
+				"hardwareSystem"
+			],
+			[
+				"ini",
+				"initialized"
+			],
+			[
+				"dis",
+				"distancePerPulse"
+			],
+			[
+				"EHLE",
+				"EHLEncoder"
+			],
+			[
+				"encode",
+				"encodingType"
+			],
+			[
+				"EHL",
+				"EHLEncoder"
+			],
+			[
+				"auton",
+				"autonBufferSize"
+			],
+			[
+				"auto",
+				"autonBufferSize"
+			],
+			[
+				"autonBu",
+				"autonBuffer"
+			],
+			[
+				"GetIn",
+				"GetInputFileLocation"
+			],
+			[
+				"mem",
+				"memoryBlock"
+			],
+			[
+				"repla",
+				"replayBuffer"
+			],
+			[
+				"replay",
+				"replayBuffer"
+			],
+			[
+				"tot",
+				"totalELONMemoryBlock"
+			],
+			[
+				"rec",
+				"recordingHandle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "square.cpp",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Build.bat",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Windows",
+				"name": "@echo off"
+			}
+		}
+	],
+	"build_system": "Packages/User/Unnamed_Project.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Snippet: struct"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/C.sublime-settings",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/EHL.cpp",
+		"/Y/Unnamed_Project/src/linux_source.cpp",
+		"/Y/Unnamed_Project/src/win32_source.cpp",
+		"/Y/Unnamed_Project/inc/wglext.h",
+		"/Y/Unnamed_Project/inc/glext.h",
+		"/Y/Unnamed_Project/inc/unnamed_typedefs.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/ELONEngine.h",
+		"/Z/FRC/Workspace/allwpilib/wpilibc/wpilibC++Devices/src/Encoder.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/ELONEngine.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/make.bat",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/EHL.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/DeployELONEngine.bat",
+		"/Z/FRC/Workspace/ELON Engine Prototype/Build.bat",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Actions.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Util.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Memory.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Elevator.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Chassis.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Input.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Source.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Actions.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Memory.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Elevator.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Chassis.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Input.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Util.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/inc/Properties.h",
+		"/Z/FRC/Workspace/ELON Engine Prototype/src/Source.cpp",
+		"/Z/FRC/Workspace/ELON Engine Prototype/Deploy.bat",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/ELON_Engine.sublime-build",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/ScopeHunter/scope_hunter.sublime-settings",
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/C++11.sublime-settings",
+		"/Z/temporary/test_project.sublime-project",
+		"/Z/temporary/test_project.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"1280",
+			"720",
+			"UNNAMED_OPENGL",
+			"Assert",
+			"Abs",
+			"0x",
+			"#define0x",
+			" ",
+			"#define",
+			"BUTTONSTATE",
+			";",
+			"newInput",
+			"Win32OffscreenBuffer",
+			"OutputDebugString",
+			"DIRECT_SOUND_CREATE_FUNC_TYPE",
+			"bytesPerPixel",
+			"bitmapInfo",
+			"bitmapMemory",
+			"bitmapHeight",
+			"bitmapWidth",
+			"windowRect",
+			"windowHandle",
+			"I32",
+			"DEFAULT_PWM_STEPS_CENTER",
+			"ctrl+d",
+			"ctrl+shift+p",
+			"TEST_HEADER_H",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"zm_Assert",
+			"zm_Abs",
+			"zmAbs",
+			" 0x",
+			"#define ",
+			"0x",
+			" 0x",
+			"ButtonState",
+			"#define",
+			"",
+			"newGamepad",
+			"OffscreenBuffer",
+			"DirectSoundCreateDytor",
+			"buffer->bytesPerPixel",
+			"buffer->info",
+			"buffer->memory",
+			"buffer->height",
+			"buffer->width",
+			"clientRect",
+			"window",
+			"S32",
+			"DEFAULT_PWM_STEPS_DOWN"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "square.cpp",
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "Build.bat",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@echo off",
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 292.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Y/Unnamed_Project/inc/zm.h"
+			],
+			[
+				"win",
+				"/Y/Unnamed_Project/src/win32_source.cpp"
+			],
+			[
+				"el",
+				"src/ELONEngine.cpp"
+			],
+			[
+				"i",
+				"inc/ELONEngine.h"
+			],
+			[
+				"ehl",
+				"inc/EHL.h"
+			],
+			[
+				"sr",
+				"src/ELONEngine.cpp"
+			],
+			[
+				"e",
+				"src/ELONEngine.cpp"
+			],
+			[
+				"make",
+				"make.bat"
+			],
+			[
+				"inc",
+				"inc/ELONEngine.h"
+			],
+			[
+				"in",
+				"inc/ELONEngine.h"
+			],
+			[
+				"elonen",
+				"inc/ELONEngine.h"
+			],
+			[
+				"src/",
+				"src/ELONEngine.cpp"
+			],
+			[
+				"dep",
+				"DeployELONEngine.bat"
+			],
+			[
+				"bu",
+				"Build.bat"
+			],
+			[
+				"eh",
+				"src/EHL.cpp"
+			],
+			[
+				"inc/",
+				"inc/ELONEngine.h"
+			],
+			[
+				"a",
+				"inc/Actions.h"
+			],
+			[
+				"me",
+				"inc/Memory.h"
+			],
+			[
+				"elev",
+				"inc/Elevator.h"
+			],
+			[
+				"cha",
+				"inc/Chassis.h"
+			],
+			[
+				"inc/in",
+				"inc/Input.h"
+			],
+			[
+				"inc/uti",
+				"inc/Util.h"
+			],
+			[
+				"inc/pr",
+				"inc/Properties.h"
+			],
+			[
+				"inc/elon",
+				"inc/ELONEngine.h"
+			],
+			[
+				"uti",
+				"src/Util.cpp"
+			],
+			[
+				"build.bat",
+				"Build.bat"
+			],
+			[
+				"deploy",
+				"Deploy.bat"
+			],
+			[
+				"m",
+				"src/Memory.cpp"
+			],
+			[
+				"c",
+				"src/Chassis.cpp"
+			],
+			[
+				"bui",
+				"Build.bat"
+			],
+			[
+				"u",
+				"inc/Util.h"
+			],
+			[
+				"p",
+				"ELON Engine Prototype/inc/Properties.h"
+			],
+			[
+				"b",
+				"/Z/FRC/Workspace/ELON Engine Prototype/Build.bat"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Z/FRC/Workspace/ELON Engine Prototype/ELON Engine.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false
+}
