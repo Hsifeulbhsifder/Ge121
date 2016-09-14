@@ -32,7 +32,7 @@ int main(){
 		 << sideB << " " << sideC << endl;
 
 	angleA = acos( (sideA2 - sideC2 - sideB2) / (-2 * sideB * sideC) ) * radToDeg;
-	angleB = acos( (sideB2 - sideA2 - sideC2) / (-2 * sideA * sideC) ) * radToDeg;
+	angleB = 180.0 - angleA - angleC;
 
 	cout << "Cos law angles (A, B, C): " << angleA << " " 
 		 << angleB << " " << angleC << endl;
@@ -40,7 +40,7 @@ int main(){
 	double sinC_sideC = sin(angleC * degToRad) / sideC;
 
 	angleA = asin(sideA * sinC_sideC) * radToDeg;
-	angleB = asin(sideB * sinC_sideC) * radToDeg;
+	angleB = 180.0 - angleA - angleC;
 
 	cout << "Sin law angles (A, B, C): " << angleA << " " 
 		 << angleB << " " << angleC << endl;
@@ -59,14 +59,14 @@ Console output for test case 1:
 Enter two side lengths and the contained angle:30 3 15
 Side Lengths (a, b, c): 30 3 27.1133
 Cos law angles (A, B, C): 163.359 1.64103 15
-Sin law angles (A, B, C): 16.641 1.64103 15
+Sin law angles (A, B, C): 16.641 148.359 15
 Area: 11.6469
 
 Console output for test case 2:
 Enter two side lengths and the contained angle:2 20 30
 Side Lengths (a, b, c): 2 20 18.2953
 Cos law angles (A, B, C): 3.13328 146.867 30
-Sin law angles (A, B, C): 3.13328 33.1333 30
+Sin law angles (A, B, C): 3.13328 146.867 30
 Area: 10
 
 Console output for test case 3:
