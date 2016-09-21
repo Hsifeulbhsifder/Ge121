@@ -50,7 +50,7 @@ int main(){
 					* (semiperimeter - sideC) );
 
 	cout << "Area: " << areaABC << endl;
-
+	
 	return 0;
 }
 

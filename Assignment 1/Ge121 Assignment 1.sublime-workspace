@@ -239,21 +239,64 @@
 			"file": "square.cpp",
 			"settings":
 			{
-				"buffer_size": 435,
+				"buffer_size": 552,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "angles.cpp",
+			"settings":
+			{
+				"buffer_size": 2030,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 1.sublime-build",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
 			}
 		},
 		{
 			"file": "Build.bat",
 			"settings":
 			{
-				"buffer_size": 65,
+				"buffer_size": 61,
 				"line_ending": "Windows",
 				"name": "@echo off"
 			}
+		},
+		{
+			"file": "moment_of_inertia.cpp",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"line_ending": "Windows",
+				"name": "// Zaeem Mohamed"
+			}
+		},
+		{
+			"file": "header.txt",
+			"settings":
+			{
+				"buffer_size": 1414,
+				"line_ending": "Windows",
+				"name": "/*************************************************"
+			}
+		},
+		{
+			"file": "square.txt",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Windows"
+			}
 		}
 	],
-	"build_system": "Packages/User/Unnamed_Project.sublime-build",
+	"build_system": "Packages/User/Ge121 Assignment 1.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
@@ -409,7 +452,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -443,15 +486,15 @@
 					"file": "square.cpp",
 					"settings":
 					{
-						"buffer_size": 435,
+						"buffer_size": 552,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								176,
-								176
+								474,
+								474
 							]
 						],
 						"settings":
@@ -463,16 +506,37 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 2,
-					"file": "Build.bat",
+					"file": "angles.cpp",
+					"settings":
+					{
+						"buffer_size": 2030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1356,
+								1356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 464.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 1.sublime-build",
 					"settings":
 					{
 						"buffer_size": 65,
@@ -488,8 +552,123 @@
 						],
 						"settings":
 						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "Build.bat",
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
 							"auto_name": "@echo off",
 							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "moment_of_inertia.cpp",
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// Zaeem Mohamed",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "header.txt",
+					"settings":
+					{
+						"buffer_size": 1414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*************************************************",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "square.txt",
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -554,7 +733,7 @@
 		[
 			[
 				"",
-				"/Y/Unnamed_Project/inc/zm.h"
+				"/Z/C++ Repositories/Ge121/Assignment 1/moment_of_inertia.cpp"
 			],
 			[
 				"win",
