@@ -22,9 +22,11 @@ int main(){
 			if(integer > 1000 && integer < 1000000){
 				int highWord = integer / 1000;
 				int lowWord = integer - highWord * 1000;
-				cout << " | Output: " << highWord << "," << lowWord << endl;
+				cout << " | Output: " << highWord 
+					 << "," << lowWord << endl;
 			}else{
-				cout << " | Number is not in the thousands" << endl;
+				cout << " | Number is not in the thousands" 
+					 << endl;
 			}
 		}
 

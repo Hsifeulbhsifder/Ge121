@@ -24,7 +24,8 @@ int main(){
 	for(int i = 0; i < fileSize; i++){
 
 		fin >> side1 >> side2 >> angle;
-		cout << "Sides: " << side1 << "cm " << side2 << "cm | Angle: ";
+		cout << "Sides: " << side1 << "cm " 
+			 << side2 << "cm | Angle: ";
 
 		if(angle > -ANGLE_TOL && angle < (180.0 + ANGLE_TOL)){
 
@@ -58,7 +59,8 @@ int main(){
 
 		}else {
 
-			cout << "does not fit the interval [0,180] degrees." << endl;
+			cout << "does not fit the interval [0,180] degrees." 
+				 << endl;
 
 		}
 
