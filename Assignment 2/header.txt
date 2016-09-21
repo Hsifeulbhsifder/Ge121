@@ -2,13 +2,13 @@
 
   Name(s): Zaeem Mohamed, Udeshaya Wadhwa
   ID Number(s): 20658740
-  UW Email Address(es): z6mohame@edu.uwaterloo.ca
+  UW Email Address(es): z6mohame@uwaterloo.ca, uwadhwa@uwaterloo.ca
 
-  Assignment: Assignment 1
-  Date: September 12, 2016
+  Assignment: Assignment 2
+  Date: September 21, 2016
 
   Lab Day (Mon/Tues/Wed): Wednesday
-  TA Name:
+  TA Name: Chris
 
 *******************************************************************
 
