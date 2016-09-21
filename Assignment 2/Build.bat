@@ -1,6 +1,6 @@
 @echo off
 
-set SRC=stones
+set SRC=cone
 
 g++ %SRC%.cpp -o %SRC% -g -Wall
 
