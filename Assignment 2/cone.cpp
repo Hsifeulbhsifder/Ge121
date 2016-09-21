@@ -17,13 +17,13 @@ int main(){
 	if(angle > 0.0 && angle < 360.0){
 		double coneRadius = (angle / 360.0) * radius;
 		double coneHeight = sqrt(radius * radius 
-							- coneRadius * coneRadius);
+		- coneRadius * coneRadius);
 		double volume = (1.0 / 3.0) * M_PI * coneRadius 
-						* coneRadius * coneHeight;
+		* coneRadius * coneHeight;
 		cout << "Volume: " << volume << endl;
 	} else {
 		cout << "Angle is not between 0 and 360 degrees" 
-			 << endl;
+		<< endl;
 	}
 
 	return 0;

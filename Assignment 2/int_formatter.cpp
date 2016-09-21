@@ -23,10 +23,10 @@ int main(){
 				int highWord = integer / 1000;
 				int lowWord = integer - highWord * 1000;
 				cout << " | Output: " << highWord 
-					 << "," << lowWord << endl;
+				<< "," << lowWord << endl;
 			}else{
 				cout << " | Number is not in the thousands" 
-					 << endl;
+				<< endl;
 			}
 		}
 
