@@ -1,0 +1,7 @@
+Waterloo 1200
+Newfoundland 1330
+Vancouver 900
+Casablanca 1700
+Kathmandu 2245
+Beijing 100
+Hawaii 700

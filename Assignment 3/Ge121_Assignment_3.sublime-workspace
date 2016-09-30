@@ -228,31 +228,31 @@
 	"buffers":
 	[
 		{
-			"contents": "",
+			"file": "A3Q1.cpp",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1942,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "square.cpp",
+			"file": "A3Q2.cpp",
 			"settings":
 			{
-				"buffer_size": 552,
+				"buffer_size": 1985,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "angles.cpp",
+			"file": "A3Q3.cpp",
 			"settings":
 			{
-				"buffer_size": 2030,
+				"buffer_size": 2312,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 1.sublime-build",
+			"file": "/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 3.sublime-build",
 			"settings":
 			{
 				"buffer_size": 65,
@@ -261,42 +261,39 @@
 			}
 		},
 		{
+			"file": "taxi.txt",
+			"settings":
+			{
+				"buffer_size": 3090,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "worldTime.txt",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "taxi.cpp",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "Build.bat",
 			"settings":
 			{
-				"buffer_size": 61,
-				"line_ending": "Windows",
-				"name": "@echo off"
-			}
-		},
-		{
-			"file": "moment_of_inertia.cpp",
-			"settings":
-			{
-				"buffer_size": 1011,
-				"line_ending": "Windows",
-				"name": "// Zaeem Mohamed"
-			}
-		},
-		{
-			"file": "header.txt",
-			"settings":
-			{
-				"buffer_size": 1414,
-				"line_ending": "Windows",
-				"name": "/*************************************************"
-			}
-		},
-		{
-			"file": "square.txt",
-			"settings":
-			{
-				"buffer_size": 22,
+				"buffer_size": 69,
 				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "Packages/User/Ge121 Assignment 1.sublime-build",
+	"build_system": "Packages/User/Ge121 Assignment 3.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
@@ -328,6 +325,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 3.sublime-build",
+		"/Z/C++ Repositories/Ge121/Assignment 2/Build.bat",
 		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -452,75 +451,77 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "A3Q1.cpp",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1942,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								292,
+								292
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 120.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "square.cpp",
+					"file": "A3Q2.cpp",
 					"settings":
 					{
-						"buffer_size": 552,
+						"buffer_size": 1985,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								474,
-								474
+								493,
+								493
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "angles.cpp",
+					"file": "A3Q3.cpp",
 					"settings":
 					{
-						"buffer_size": 2030,
+						"buffer_size": 2312,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								209,
-								209
+								559,
+								559
 							]
 						],
 						"settings":
@@ -536,7 +537,7 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 1.sublime-build",
+					"file": "/C/Users/Zaeem/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 3.sublime-build",
 					"settings":
 					{
 						"buffer_size": 65,
@@ -563,29 +564,28 @@
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 4,
-					"file": "Build.bat",
+					"file": "taxi.txt",
 					"settings":
 					{
-						"buffer_size": 61,
+						"buffer_size": 3090,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								61,
-								61
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "@echo off",
-							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -595,23 +595,48 @@
 				},
 				{
 					"buffer": 5,
-					"file": "moment_of_inertia.cpp",
+					"file": "worldTime.txt",
 					"settings":
 					{
-						"buffer_size": 1011,
+						"buffer_size": 100,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								593,
-								593
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "// Zaeem Mohamed",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "taxi.cpp",
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -622,53 +647,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "header.txt",
-					"settings":
-					{
-						"buffer_size": 1414,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								501,
-								501
-							]
-						],
-						"settings":
-						{
-							"auto_name": "/*************************************************",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 120.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 7,
-					"file": "square.txt",
+					"file": "Build.bat",
 					"settings":
 					{
-						"buffer_size": 22,
+						"buffer_size": 69,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22,
-								22
+								23,
+								23
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -733,7 +729,7 @@
 		[
 			[
 				"",
-				"/Z/C++ Repositories/Ge121/Assignment 1/moment_of_inertia.cpp"
+				"/Z/C++ Repositories/Ge121/Assignment 3/A3Q1.cpp"
 			],
 			[
 				"win",
