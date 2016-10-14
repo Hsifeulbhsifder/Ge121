@@ -50,6 +50,6 @@ task main(){
 	}
 	displayString(4, "Avg %%Error: %f%%", errorSum / 3.0);
 
-	while(nNxtButtonPressed!=3){}
+	while(nNxtButtonPressed != 3){}
 	while(nNxtButtonPressed == 3){}
 }

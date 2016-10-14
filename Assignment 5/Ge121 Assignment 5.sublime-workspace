@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"n",
+				"nNxtButtonPressed"
+			],
+			[
+				"speed",
+				"encSpeed"
+			],
+			[
+				"stop",
+				"stopOnColorEncoder"
+			],
+			[
 				"star",
 				"startLengths"
 			]
@@ -15,22 +27,40 @@
 			"file": "A5Q2.cpp",
 			"settings":
 			{
-				"buffer_size": 97,
+				"buffer_size": 98,
 				"line_ending": "Windows",
 				"name": "//Zaeem Mohamed, Felix Wu"
+			}
+		},
+		{
+			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 5.sublime-build",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
 			}
 		},
 		{
 			"file": "Build.bat",
 			"settings":
 			{
-				"buffer_size": 85,
+				"buffer_size": 89,
 				"line_ending": "Windows",
 				"name": "@echo off"
 			}
+		},
+		{
+			"file": "A5Q1.c",
+			"settings":
+			{
+				"buffer_size": 1552,
+				"line_ending": "Windows",
+				"name": "//Zaeem Mohamed, Felix Wu"
+			}
 		}
 	],
-	"build_system": "Packages/User/Ge121 Assignment 4.sublime-build",
+	"build_system": "Packages/User/Ge121 Assignment 5.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
@@ -99,15 +129,15 @@
 					"file": "A5Q2.cpp",
 					"settings":
 					{
-						"buffer_size": 97,
+						"buffer_size": 98,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								95,
-								95
+								98,
+								98
 							]
 						],
 						"settings":
@@ -120,27 +150,53 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
-					"file": "Build.bat",
+					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 5.sublime-build",
 					"settings":
 					{
-						"buffer_size": 85,
+						"buffer_size": 76,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								59,
-								59
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "Build.bat",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
 							]
 						],
 						"settings":
@@ -150,6 +206,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "A5Q1.c",
+					"settings":
+					{
+						"buffer_size": 1552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//Zaeem Mohamed, Felix Wu",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 520.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -211,7 +295,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/A4Q3.cpp"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 5/A5Q2.cpp"
 			]
 		],
 		"width": 0.0
