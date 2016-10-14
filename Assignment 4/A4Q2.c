@@ -7,11 +7,8 @@ bool driveDistAndTurn (int motorPower, int distance){
     motor[motorA] = motorPower;
     motor[motorC] = motorPower;
 
-    float dist = SensorValue[S3];
-
-    displayString (0, "%d", dist + 15);
     while (SensorValue[S3] > distance + 15){
-        displayString (1, "%d", distance + 15);
+        displayString (1, "%d", SensorValue[S3]);
         if (SensorValue[S2]){
             return false;
         }
@@ -20,7 +17,12 @@ bool driveDistAndTurn (int motorPower, int distance){
     motor[motorA] = -75;
     motor[motorC] = 75;
 
-    wait1Msec (1500);
+    time1[T1] = 0;
+    while(time1[T1] < 1250){
+        if (SensorValue[S2]){
+            return false;
+        }
+    }
 
     motor[motorA] = 0;
     motor[motorC] = 0;
@@ -29,7 +31,8 @@ bool driveDistAndTurn (int motorPower, int distance){
 }
 
 task main(){
-    displayString(0, "Wed 01");
+    displayString(0, "Fri 09");
     while(nNxtButtonPressed != 3){}
+    while(nNxtButtonPressed != -1){}
     while(driveDistAndTurn(50, 15)){}
 }

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"per",
+				"perimTri"
+			],
+			[
 				"n",
 				"nNxtButtonPressed"
 			],
@@ -27,7 +31,7 @@
 			"file": "A5Q2.cpp",
 			"settings":
 			{
-				"buffer_size": 98,
+				"buffer_size": 1284,
 				"line_ending": "Windows",
 				"name": "//Zaeem Mohamed, Felix Wu"
 			}
@@ -54,7 +58,7 @@
 			"file": "A5Q1.c",
 			"settings":
 			{
-				"buffer_size": 1552,
+				"buffer_size": 1554,
 				"line_ending": "Windows",
 				"name": "//Zaeem Mohamed, Felix Wu"
 			}
@@ -129,15 +133,15 @@
 					"file": "A5Q2.cpp",
 					"settings":
 					{
-						"buffer_size": 98,
+						"buffer_size": 1284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								98,
-								98
+								1211,
+								1211
 							]
 						],
 						"settings":
@@ -146,7 +150,7 @@
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 285.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -215,15 +219,15 @@
 					"file": "A5Q1.c",
 					"settings":
 					{
-						"buffer_size": 1552,
+						"buffer_size": 1554,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								637,
-								637
+								1554,
+								1554
 							]
 						],
 						"settings":
@@ -305,6 +309,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/Ge121 Assignment 4.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
