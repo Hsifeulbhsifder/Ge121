@@ -20,13 +20,10 @@
 			}
 		},
 		{
-			"contents": "bool driveDistAndTurn (int motorPower, int distance){\n\n    motor[motorA] = motorPower;\n    motor[motorC] = motorPower;\n\n    float dist = SensorValue[S3];\n\n\n    displayString (0, \"%d\", dist);\n    while (SensorValue[S3] > distance + 15){\n        displayString (1, \"%d\", distance + 15);\n        if (SensorValue[S2]){\n            return false;\n        }\n    }\n    displayString (2, \"TURNING\");\n    motor[motorA] = -75;\n    motor[motorC] = 75;\n\n    wait1Msec (1500);\n\n    motor[motorA] = 0;\n    motor[motorC] = 0;\n\n    return true;\n}\n\ntask main(){\n    SensorType[S3] = sensorSONAR;\n    SensorType[S2] = sensorTouch;\n    displayString(0, \"Tues 01\");\n    while(nNxtButtonPressed != 3){}\n    while(driveDistAndTurn (100 , 15)){}\n}\n",
-			"file": "/D/RobotCQ2.c",
-			"file_size": 690,
-			"file_write_time": 131207023560000000,
+			"file": "A4Q2.c",
 			"settings":
 			{
-				"buffer_size": 723,
+				"buffer_size": 727,
 				"line_ending": "Windows"
 			}
 		},
@@ -34,7 +31,7 @@
 			"file": "A4Q3.cpp",
 			"settings":
 			{
-				"buffer_size": 1050,
+				"buffer_size": 1072,
 				"line_ending": "Windows",
 				"name": "#include <iostream>"
 			}
@@ -43,7 +40,7 @@
 			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 4.sublime-build",
 			"settings":
 			{
-				"buffer_size": 71,
+				"buffer_size": 76,
 				"line_ending": "Windows",
 				"name": "untitled.sublime-build"
 			}
@@ -94,7 +91,7 @@
 			"file": "Build.bat",
 			"settings":
 			{
-				"buffer_size": 86,
+				"buffer_size": 82,
 				"line_ending": "Windows"
 			}
 		},
@@ -107,7 +104,7 @@
 			}
 		}
 	],
-	"build_system": "Packages/User/TRON_Days.sublime-build",
+	"build_system": "Packages/User/Ge121 Assignment 4.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
@@ -168,7 +165,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -200,18 +197,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/D/RobotCQ2.c",
+					"file": "A4Q2.c",
 					"settings":
 					{
-						"buffer_size": 723,
+						"buffer_size": 727,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								508,
-								508
+								389,
+								389
 							]
 						],
 						"settings":
@@ -220,7 +217,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -230,15 +227,15 @@
 					"file": "A4Q3.cpp",
 					"settings":
 					{
-						"buffer_size": 1050,
+						"buffer_size": 1072,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								311,
-								311
+								1070,
+								1070
 							]
 						],
 						"settings":
@@ -247,7 +244,7 @@
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 89.0,
+						"translation.y": 217.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -257,22 +254,22 @@
 					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 4.sublime-build",
 					"settings":
 					{
-						"buffer_size": 71,
+						"buffer_size": 76,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14,
-								14
+								15,
+								15
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
-						"translation.x": 22.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -416,7 +413,7 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -424,15 +421,15 @@
 					"file": "Build.bat",
 					"settings":
 					{
-						"buffer_size": 86,
+						"buffer_size": 82,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23,
-								23
+								82,
+								82
 							]
 						],
 						"settings":
@@ -457,8 +454,8 @@
 						"selection":
 						[
 							[
-								155,
-								155
+								21,
+								21
 							]
 						],
 						"settings":
@@ -528,7 +525,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/Build.bat"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/A4Q2.c"
 			]
 		],
 		"width": 0.0
