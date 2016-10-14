@@ -1,3 +1,5 @@
+//Zaeem Mohamed, Charvi Shah
+
 bool driveDistAndTurn (int motorPower, int distance){
     SensorType[S3] = sensorSONAR;
     SensorType[S2] = sensorTouch;

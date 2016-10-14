@@ -23,7 +23,7 @@
 			"file": "A4Q2.c",
 			"settings":
 			{
-				"buffer_size": 727,
+				"buffer_size": 757,
 				"line_ending": "Windows"
 			}
 		},
@@ -31,7 +31,7 @@
 			"file": "A4Q3.cpp",
 			"settings":
 			{
-				"buffer_size": 1072,
+				"buffer_size": 1477,
 				"line_ending": "Windows",
 				"name": "#include <iostream>"
 			}
@@ -102,6 +102,14 @@
 				"buffer_size": 155,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "A4Q1.c",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "Packages/User/Ge121 Assignment 4.sublime-build",
@@ -165,7 +173,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -200,24 +208,25 @@
 					"file": "A4Q2.c",
 					"settings":
 					{
-						"buffer_size": 727,
+						"buffer_size": 757,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								389,
-								389
+								28,
+								28
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -227,24 +236,25 @@
 					"file": "A4Q3.cpp",
 					"settings":
 					{
-						"buffer_size": 1072,
+						"buffer_size": 1477,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1070,
-								1070
+								1175,
+								1175
 							]
 						],
 						"settings":
 						{
 							"auto_name": "#include <iostream>",
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 217.0,
+						"translation.y": 429.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -413,7 +423,7 @@
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -461,6 +471,33 @@
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "A4Q1.c",
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -525,7 +562,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/A4Q2.c"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/A4Q3.cpp"
 			]
 		],
 		"width": 0.0

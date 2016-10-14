@@ -1,3 +1,5 @@
+//Zaeem Mohamed, Charvi Shah
+
 #include <iostream>
 #include <fstream>
 #include <cmath>
@@ -43,3 +45,18 @@ int main(){
 	fin.close();
 	return 0;
 }
+
+/*	
+	Assumption: An angle of 0 means that
+				the direction is due East
+
+	Output:
+	Distance: 1286.55 | Angle: 75.7378
+	Distance: 11.5241 | Angle: 9.2378
+	Distance: 913.522 | Angle: -56.7596
+	Distance: 472.81 | Angle: -105.732
+	Distance: 1387.5 | Angle: 112.879
+	Distance: 324.497 | Angle: -22.4561
+	Distance: 1006.12 | Angle: 128.266
+	Distance: 1590.1 | Angle: -0.733289
+*/

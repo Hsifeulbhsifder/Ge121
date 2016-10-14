@@ -1,3 +1,5 @@
+//Zaeem Mohamed, Charvi Shah
+
 task main()
 {
 	displayString(0, "Thurs 01");
@@ -48,6 +50,5 @@ task main()
 
 
 		}
-
 	}
 }
