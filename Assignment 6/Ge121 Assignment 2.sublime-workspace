@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"tro",
+				"troubleX"
+			],
+			[
 				"are",
 				"areaTri"
 			],
@@ -32,24 +36,16 @@
 	"buffers":
 	[
 		{
-			"file": "A5Q2.cpp",
+			"file": "A6Q2.cpp",
 			"settings":
 			{
-				"buffer_size": 3594,
+				"buffer_size": 1025,
 				"line_ending": "Windows",
-				"name": "//Zaeem Mohamed, Felix Wu"
+				"name": "#include <iostream>"
 			}
 		},
 		{
-			"file": "/C/Users/Zaeem Mohamed/Downloads/assignment5.2.cpp",
-			"settings":
-			{
-				"buffer_size": 2338,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 5.sublime-build",
+			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 6.sublime-build",
 			"settings":
 			{
 				"buffer_size": 76,
@@ -62,21 +58,11 @@
 			"settings":
 			{
 				"buffer_size": 85,
-				"line_ending": "Windows",
-				"name": "@echo off"
-			}
-		},
-		{
-			"file": "A5Q1.c",
-			"settings":
-			{
-				"buffer_size": 1554,
-				"line_ending": "Windows",
-				"name": "//Zaeem Mohamed, Felix Wu"
+				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "Packages/User/Ge121 Assignment 5.sublime-build",
+	"build_system": "Packages/User/Ge121 Assignment 6.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
@@ -100,6 +86,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Nova Drivu/C++ Repositories/TRON Days/Build.bat",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/TRON_Days.sublime-build",
 		"/Z/C++ Repositories/TRON Days/Bond.cpp"
@@ -145,52 +132,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "A5Q2.cpp",
+					"file": "A6Q2.cpp",
 					"settings":
 					{
-						"buffer_size": 3594,
+						"buffer_size": 1025,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								905,
-								905
+								78,
+								78
 							]
 						],
 						"settings":
 						{
-							"auto_name": "//Zaeem Mohamed, Felix Wu",
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 279.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Zaeem Mohamed/Downloads/assignment5.2.cpp",
-					"settings":
-					{
-						"buffer_size": 2338,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								639,
-								96
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"auto_name": "#include <iostream>",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -199,8 +158,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 5.sublime-build",
+					"buffer": 1,
+					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 6.sublime-build",
 					"settings":
 					{
 						"buffer_size": 76,
@@ -231,7 +190,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "Build.bat",
 					"settings":
 					{
@@ -242,45 +201,16 @@
 						"selection":
 						[
 							[
-								85,
-								85
+								21,
+								21
 							]
 						],
 						"settings":
 						{
-							"auto_name": "@echo off",
 							"syntax": "Packages/Batch File/Batch File.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "A5Q1.c",
-					"settings":
-					{
-						"buffer_size": 1554,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1393,
-								1393
-							]
-						],
-						"settings":
-						{
-							"auto_name": "//Zaeem Mohamed, Felix Wu",
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 344.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -342,7 +272,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 5/A5Q2.cpp"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/A6Q2.cpp"
 			]
 		],
 		"width": 0.0
