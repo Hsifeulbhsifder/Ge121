@@ -5,7 +5,7 @@ void buttonHeldTime(int& buttonNum, float& timeHeld){
 	if(SensorValue(S2)) buttonNum = 4;
 	else buttonNum = nNxtButtonPressed;
 	time1[T1] = 0;
-	while(nNxtButtonPressed != -1 || SensorValue(S2)){}
+	while(nNxtButtonPressed == buttonNum|| SensorValue(S2)){}
 	timeHeld = time1[T1] / 1000.0;
 }
 

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"rescueTime"
+			],
+			[
 				"tro",
 				"troubleX"
 			],
@@ -39,25 +43,41 @@
 			"file": "A6Q2.cpp",
 			"settings":
 			{
-				"buffer_size": 1025,
-				"line_ending": "Windows",
-				"name": "#include <iostream>"
-			}
-		},
-		{
-			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 6.sublime-build",
-			"settings":
-			{
-				"buffer_size": 76,
-				"line_ending": "Windows",
-				"name": "untitled.sublime-build"
+				"buffer_size": 1574,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "Build.bat",
 			"settings":
 			{
-				"buffer_size": 85,
+				"buffer_size": 89,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "A6Q1.c",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Windows",
+				"name": "//Zaeem Mohamed"
+			}
+		},
+		{
+			"file": "A6Q3.cpp",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Windows",
+				"name": "//Zaeem Mohamed, Gordon Winch"
+			}
+		},
+		{
+			"file": "ships.txt",
+			"settings":
+			{
+				"buffer_size": 2237,
 				"line_ending": "Windows"
 			}
 		}
@@ -86,7 +106,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 6.sublime-build",
+		"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/A6Q2.cpp",
+		"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/Build.bat",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Nova Drivu/C++ Repositories/TRON Days/Build.bat",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/TRON_Days.sublime-build",
 		"/Z/C++ Repositories/TRON Days/Bond.cpp"
@@ -97,7 +121,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 98.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"A5Q2.cpp"
@@ -135,47 +159,21 @@
 					"file": "A6Q2.cpp",
 					"settings":
 					{
-						"buffer_size": 1025,
+						"buffer_size": 1574,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								78,
-								78
+								107,
+								107
 							]
 						],
 						"settings":
 						{
-							"auto_name": "#include <iostream>",
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 6.sublime-build",
-					"settings":
-					{
-						"buffer_size": 76,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -186,28 +184,109 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "Build.bat",
 					"settings":
 					{
-						"buffer_size": 85,
+						"buffer_size": 89,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
+								89,
+								89
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "A6Q1.c",
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//Zaeem Mohamed",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "A6Q3.cpp",
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//Zaeem Mohamed, Gordon Winch",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ships.txt",
+					"settings":
+					{
+						"buffer_size": 2237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1519,
+								1519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -272,7 +351,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/A6Q2.cpp"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/Build.bat"
 			]
 		],
 		"width": 0.0
