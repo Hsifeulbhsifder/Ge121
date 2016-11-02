@@ -40,49 +40,34 @@
 	"buffers":
 	[
 		{
-			"file": "A6Q2.cpp",
+			"file": "A7Q3.cpp",
 			"settings":
 			{
-				"buffer_size": 1574,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Build.bat",
-			"settings":
-			{
-				"buffer_size": 89,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "A6Q1.c",
-			"settings":
-			{
-				"buffer_size": 1127,
+				"buffer_size": 153,
 				"line_ending": "Windows",
-				"name": "//Zaeem Mohamed"
+				"name": "// Insert names"
 			}
 		},
 		{
-			"file": "A6Q3.cpp",
+			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 7.sublime-build",
 			"settings":
 			{
-				"buffer_size": 257,
+				"buffer_size": 76,
 				"line_ending": "Windows",
-				"name": "//Zaeem Mohamed, Gordon Winch"
+				"name": "untitled.sublime-build"
 			}
 		},
 		{
-			"file": "ships.txt",
+			"file": "build.bat",
 			"settings":
 			{
-				"buffer_size": 2237,
-				"line_ending": "Windows"
+				"buffer_size": 114,
+				"line_ending": "Windows",
+				"name": "@echo off"
 			}
 		}
 	],
-	"build_system": "Packages/User/Ge121 Assignment 6.sublime-build",
+	"build_system": "Packages/User/Ge121 Assignment 7.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
@@ -106,11 +91,15 @@
 	},
 	"file_history":
 	[
+		"/Z/C++ Repositories/Ge121/Assignment 7/cccfiles/ccc_win.h",
+		"/C/Users/Zaeem Mohamed/Downloads/GENE121_MTE100FuelCellCarProject/GENE121_MTE100FuelCellCarProject/UW_GENE_121.h",
+		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/Z/C++ Repositories/AI_Project/src/_zm_typedefs.h",
+		"/C/Nova Drivu/C++ Repositories/AI_Project/source.cpp",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 6.sublime-build",
 		"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/A6Q2.cpp",
 		"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/Build.bat",
-		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Nova Drivu/C++ Repositories/TRON Days/Build.bat",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/TRON_Days.sublime-build",
 		"/Z/C++ Repositories/TRON Days/Bond.cpp"
@@ -156,110 +145,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "A6Q2.cpp",
+					"file": "A7Q3.cpp",
 					"settings":
 					{
-						"buffer_size": 1574,
+						"buffer_size": 153,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								904,
-								904
+								153,
+								153
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "Build.bat",
-					"settings":
-					{
-						"buffer_size": 89,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								89,
-								89
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Batch File/Batch File.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "A6Q1.c",
-					"settings":
-					{
-						"buffer_size": 1127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								534,
-								534
-							]
-						],
-						"settings":
-						{
-							"auto_name": "//Zaeem Mohamed",
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 324.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "A6Q3.cpp",
-					"settings":
-					{
-						"buffer_size": 257,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								257,
-								257
-							]
-						],
-						"settings":
-						{
-							"auto_name": "//Zaeem Mohamed, Gordon Winch",
+							"auto_name": "// Insert names",
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -269,24 +171,57 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "ships.txt",
+					"buffer": 1,
+					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 7.sublime-build",
 					"settings":
 					{
-						"buffer_size": 2237,
+						"buffer_size": 76,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1519,
-								1519
+								15,
+								15
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 52.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "build.bat",
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@echo off",
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -351,7 +286,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 6/A6Q1.c"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 7/A7Q3.cpp"
 			]
 		],
 		"width": 0.0
@@ -363,7 +298,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/AI_Project/AI_Project.sublime-project"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/Ge121 Assignment 4.sublime-project"
 			]
 		],
 		"width": 380.0

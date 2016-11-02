@@ -16,34 +16,33 @@ void drive(int left, int right){
 
 void control(int buttonNum, float timeHeld){
 	if(buttonNum == 1){
-		drive(-75, 75);
-	}else if(buttonNum == 2){
 		drive(75, -75);
-
+	}else if(buttonNum == 2){
+		drive(-75, 75);
 	}else if(buttonNum == 3){
 		drive(75, 75);
-
 	}else if(buttonNum == 4){
 		drive(-75, -75);
-		
 	}
 	time1[T1] = 0;
 	while(time1[T1] < timeHeld * 1000){
-		if(SensorValue(S3) < 30 && buttonNum == 3){
+		if(SensorValue(S3) < 45 && buttonNum == 3){
 			drive(30, 30);
 		}
 	}
 	drive(0, 0);
-
 }
 
 task main(){
-	for(int i = 0; i < 5; i++){
+	SensorType[S2] = sensorTouch;
+	SensorType[S3] = sensorSONAR;
+	for(int i = 1; i <= 5; i++){
 		displayString(0, "Wed 10");
 		int buttonNum = 0;
 		float timeHeld = 0;
 		buttonHeldTime(buttonNum, timeHeld);
-		displayString(1, "Button held for: %fs", timeHeld);
+		displayString(i, "%d: %fs", buttonNum, timeHeld);
 		control(buttonNum, timeHeld);
 	}
+	while(nNxtButtonPressed == -1 && !SensorValue(S2)){}
 }
