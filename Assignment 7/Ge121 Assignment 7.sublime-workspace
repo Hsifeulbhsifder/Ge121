@@ -40,12 +40,36 @@
 	"buffers":
 	[
 		{
-			"file": "A7Q3.cpp",
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_empl.cpp",
 			"settings":
 			{
-				"buffer_size": 153,
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/A7Q3.cpp",
+			"settings":
+			{
+				"buffer_size": 979,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/A7Q1.cpp",
+			"settings":
+			{
+				"buffer_size": 1219,
 				"line_ending": "Windows",
-				"name": "// Insert names"
+				"name": "#include <iostream>"
+			}
+		},
+		{
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_asc.cpp",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -61,9 +85,57 @@
 			"file": "build.bat",
 			"settings":
 			{
-				"buffer_size": 114,
+				"buffer_size": 172,
 				"line_ending": "Windows",
 				"name": "@echo off"
+			}
+		},
+		{
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/results.txt",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pascal2016.txt",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "answers2016.txt",
+			"settings":
+			{
+				"buffer_size": 1920,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_msw.cpp",
+			"settings":
+			{
+				"buffer_size": 11213,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_msw.h",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_shap.h",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -91,10 +163,14 @@
 	},
 	"file_history":
 	[
-		"/Z/C++ Repositories/Ge121/Assignment 7/cccfiles/ccc_win.h",
-		"/C/Users/Zaeem Mohamed/Downloads/GENE121_MTE100FuelCellCarProject/GENE121_MTE100FuelCellCarProject/UW_GENE_121.h",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 7/A7Q3.cpp",
+		"/Z/C++ Repositories/Ge121/Assignment 7/ccc_wxw.cpp",
+		"/Z/C++ Repositories/Ge121/Assignment 7/ccc_shap.cpp",
+		"/Z/C++ Repositories/Ge121/Assignment 7/ccc3e/cccfiles/ccc_win.h",
+		"/Z/C++ Repositories/Ge121/Assignment 7/cccfiles/ccc_win.h",
+		"/C/Users/Zaeem Mohamed/Downloads/GENE121_MTE100FuelCellCarProject/GENE121_MTE100FuelCellCarProject/UW_GENE_121.h",
 		"/Z/C++ Repositories/AI_Project/src/_zm_typedefs.h",
 		"/C/Nova Drivu/C++ Repositories/AI_Project/source.cpp",
 		"/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 6.sublime-build",
@@ -140,28 +216,27 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "A7Q3.cpp",
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_empl.cpp",
 					"settings":
 					{
-						"buffer_size": 153,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								153,
-								153
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "// Insert names",
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -172,6 +247,88 @@
 				},
 				{
 					"buffer": 1,
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/A7Q3.cpp",
+					"settings":
+					{
+						"buffer_size": 979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/A7Q1.cpp",
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								950,
+								950
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <iostream>",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 312.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_asc.cpp",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 7.sublime-build",
 					"settings":
 					{
@@ -203,19 +360,19 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 5,
 					"file": "build.bat",
 					"settings":
 					{
-						"buffer_size": 114,
+						"buffer_size": 172,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								65,
-								65
+								59,
+								59
 							]
 						],
 						"settings":
@@ -225,6 +382,172 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/results.txt",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "pascal2016.txt",
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "answers2016.txt",
+					"settings":
+					{
+						"buffer_size": 1920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1653,
+								1653
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_msw.cpp",
+					"settings":
+					{
+						"buffer_size": 11213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2130,
+								2130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1381.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_msw.h",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Z/C++ Repositories/Ge121/Assignment 7/ccc_shap.h",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3079.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -286,7 +609,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 7/A7Q3.cpp"
+				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 7/build.bat"
 			]
 		],
 		"width": 0.0
@@ -298,7 +621,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 4/Ge121 Assignment 4.sublime-project"
+				"/C/Nova Drivu/C++ Repositories/AI_Project/AI_Project.sublime-project"
 			]
 		],
 		"width": 380.0

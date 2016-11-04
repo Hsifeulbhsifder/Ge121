@@ -87,7 +87,7 @@ int PASCAL WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
    GetModuleFileName(hInstance, title, sizeof(title));
 
    HWND hwnd = CreateWindow("CCC_WIN",
-      "FUCK YOU",
+      "THIS GRAPHICS LIBRARY IS TOTALLY FINE! NO PROBLEMS! VERY NICE!",
       WS_OVERLAPPEDWINDOW & ~WS_MAXIMIZEBOX,
       CW_USEDEFAULT,
       CW_USEDEFAULT,

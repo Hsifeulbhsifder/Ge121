@@ -1,0 +1,4 @@
+These resistors need to be purchased: 
+Resistor 300: 2
+Resistor 400: 39
+Resistor 800: 17
