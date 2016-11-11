@@ -4,13 +4,15 @@
 using namespace std; 
 
 #include "ccc_win.h" 
+#include "ccc_msw.cpp" 
+#include "ccc_shap.cpp" 
 
 int ccc_win_main() {
 	// Insert program code here 
 	cwin.coord(-1, 1, 1, -1);
 	int numDrawings = cwin.get_int("How many drawings do you want?");
 	double radius = 0.1;
-	double radiusRate = 0.05 / (numDrawings - 1);
+	double radiusRate = 0.5 * radius / (numDrawings - 1);
 	for(int j = 0; j < numDrawings; j++){
 		Point p = cwin.get_mouse("Click");
 		double px = p.get_x();
