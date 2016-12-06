@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"max",
+				"maxVel"
+			],
+			[
+				"Get",
+				"GetLakeSAandV"
+			],
+			[
 				"re",
 				"rescueTime"
 			],
@@ -40,44 +48,35 @@
 	"buffers":
 	[
 		{
-			"file": "A8Q1.cpp",
+			"file": "A9Q1.cpp",
 			"settings":
 			{
-				"buffer_size": 2060,
+				"buffer_size": 8562,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "A9Q2.cpp",
+			"settings":
+			{
+				"buffer_size": 2617,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "A9Q3.cpp",
+			"settings":
+			{
+				"buffer_size": 104,
 				"line_ending": "Windows",
-				"name": "#include <iostream>"
+				"name": "#include <iostream"
 			}
 		},
 		{
-			"file": "A8Q2.cpp",
+			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 9.sublime-build",
 			"settings":
 			{
-				"buffer_size": 1759,
-				"line_ending": "Windows",
-				"name": "#include <iostream>"
-			}
-		},
-		{
-			"file": "A8-2.cpp",
-			"settings":
-			{
-				"buffer_size": 3573,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "A8-1.cpp",
-			"settings":
-			{
-				"buffer_size": 3101,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 8.sublime-build",
-			"settings":
-			{
-				"buffer_size": 76,
+				"buffer_size": 65,
 				"line_ending": "Windows",
 				"name": "untitled.sublime-build"
 			}
@@ -87,12 +86,27 @@
 			"settings":
 			{
 				"buffer_size": 81,
-				"line_ending": "Windows",
-				"name": "@echo off"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "racecars.txt",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "depths.txt",
+			"settings":
+			{
+				"buffer_size": 27493,
+				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "Packages/User/Ge121 Assignment 8.sublime-build",
+	"build_system": "Packages/User/Ge121 Assignment 9.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
@@ -130,13 +144,14 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
+			"<open files>",
 			"A5Q2.cpp"
 		]
 	},
@@ -145,6 +160,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_EVAL_ZM_MAX_SIZE_SQ",
+			"1024",
+			"newBounds",
+			"32][32",
+			"i][j",
+			"[256]",
+			"[n]",
+			"M##n##x##n",
 			"\"||\""
 		],
 		"highlight": true,
@@ -153,6 +176,14 @@
 		"regex": false,
 		"replace_history":
 		[
+			"_EVAL1024",
+			"_ZM_MAX_SIZE_SQ",
+			"m",
+			"1024",
+			"i + n * j",
+			"[32]",
+			"[256]",
+			"M##n",
 			"setw(10)"
 		],
 		"reverse": false,
@@ -164,87 +195,84 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "A8Q1.cpp",
+					"file": "A9Q1.cpp",
 					"settings":
 					{
-						"buffer_size": 2060,
+						"buffer_size": 8562,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1580,
-								1580
+								1981,
+								1981
 							]
 						],
 						"settings":
 						{
-							"auto_name": "#include <iostream>",
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1042.0,
+						"translation.y": 1408.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "A8Q2.cpp",
+					"file": "A9Q2.cpp",
 					"settings":
 					{
-						"buffer_size": 1759,
+						"buffer_size": 2617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1756,
-								1756
+								2407,
+								2407
 							]
 						],
 						"settings":
 						{
-							"auto_name": "#include <iostream>",
+							"auto_name": "",
 							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1512.0,
+						"translation.y": 2082.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "A8-2.cpp",
+					"file": "A9Q3.cpp",
 					"settings":
 					{
-						"buffer_size": 3573,
+						"buffer_size": 104,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3120,
-								3120
+								104,
+								104
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "#include <iostream",
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -254,46 +282,18 @@
 				},
 				{
 					"buffer": 3,
-					"file": "A8-1.cpp",
+					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 9.sublime-build",
 					"settings":
 					{
-						"buffer_size": 3101,
+						"buffer_size": 65,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3101,
-								3101
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Zaeem Mohamed/AppData/Roaming/Sublime Text 2/Packages/User/Ge121 Assignment 8.sublime-build",
-					"settings":
-					{
-						"buffer_size": 76,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
+								65,
+								65
 							]
 						],
 						"settings":
@@ -313,7 +313,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "build.bat",
 					"settings":
 					{
@@ -330,8 +330,59 @@
 						],
 						"settings":
 						{
-							"auto_name": "@echo off",
 							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "racecars.txt",
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "depths.txt",
+					"settings":
+					{
+						"buffer_size": 27493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1751,
+								1751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -382,7 +433,7 @@
 	"menu_visible": false,
 	"output.exec":
 	{
-		"height": 132.0
+		"height": 173.0
 	},
 	"replace":
 	{
@@ -396,7 +447,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 8/A8Q2.cpp"
+				"/Z/C++ Repositories/Ge121/Assignment 9/A9Q3.cpp"
 			]
 		],
 		"width": 0.0
@@ -408,7 +459,7 @@
 		[
 			[
 				"",
-				"/C/Nova Drivu/C++ Repositories/Ge121/Assignment 7/Ge121 Assignment 7.sublime-project"
+				"/Z/C++ Repositories/Final Project/Final Project.sublime-project"
 			]
 		],
 		"width": 380.0

@@ -1,3 +1,4 @@
+//Zaeem Mohamed
 #include <iostream>
 #include <cmath>
 
@@ -36,11 +37,13 @@ public:
 		return den;
 	}
 	void setDen(int den){
-		if(den < 0){
-			num = -num;
-			(*this).den = -den;
-		}else{
-			(*this).den = den;
+		if(den){
+			if(den < 0){
+				num = -num;
+				(*this).den = -den;
+			}else{
+				(*this).den = den;
+			}
 		}
 	}
 
@@ -94,3 +97,20 @@ int main(){
 	r.output();
 
 }
+
+/* Output:
+	-0.667
+	-2/3
+	1/2
+	Not Equals
+	-2/3
+	Both fractions equal -2/3
+	0
+	0.3
+	0.33
+	0.326
+	0.3261
+	0.32609
+	0.326094
+	7312/22423
+*/

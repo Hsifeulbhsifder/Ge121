@@ -13,9 +13,10 @@ void GetCoffeeData(ifstream& fin, int ratings[9][4]){
 
 void PrintData(int ratings[9][4]){
 
-    cout << "         1    2    3    4" << endl << endl;
+    cout << "   Coarseness    1    2    3    4" << endl 
+         << "Temperature" << endl;
     for(int i = 0; i < 9; i++){
-        cout << i + 91 << setw(9);
+        cout << i + 91 << setw(17);
         for(int j = 0; j < 4; j++){
             cout << ratings[i][j] << setw(5);
         }
