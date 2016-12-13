@@ -51,7 +51,7 @@
 			"file": "A9Q1.cpp",
 			"settings":
 			{
-				"buffer_size": 8562,
+				"buffer_size": 8766,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,7 +59,7 @@
 			"file": "A9Q2.cpp",
 			"settings":
 			{
-				"buffer_size": 2617,
+				"buffer_size": 2708,
 				"line_ending": "Windows"
 			}
 		},
@@ -67,7 +67,7 @@
 			"file": "A9Q3.cpp",
 			"settings":
 			{
-				"buffer_size": 104,
+				"buffer_size": 1376,
 				"line_ending": "Windows",
 				"name": "#include <iostream"
 			}
@@ -86,6 +86,14 @@
 			"settings":
 			{
 				"buffer_size": 81,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "header.txt",
+			"settings":
+			{
+				"buffer_size": 1308,
 				"line_ending": "Windows"
 			}
 		},
@@ -203,15 +211,15 @@
 					"file": "A9Q1.cpp",
 					"settings":
 					{
-						"buffer_size": 8562,
+						"buffer_size": 8766,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1981,
-								1981
+								2284,
+								2284
 							]
 						],
 						"settings":
@@ -220,7 +228,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1408.0,
+						"translation.y": 2449.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -230,15 +238,15 @@
 					"file": "A9Q2.cpp",
 					"settings":
 					{
-						"buffer_size": 2617,
+						"buffer_size": 2708,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2407,
-								2407
+								2581,
+								2581
 							]
 						],
 						"settings":
@@ -248,7 +256,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2082.0,
+						"translation.y": 1953.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -258,21 +266,22 @@
 					"file": "A9Q3.cpp",
 					"settings":
 					{
-						"buffer_size": 104,
+						"buffer_size": 1376,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								104,
-								104
+								1024,
+								1024
 							]
 						],
 						"settings":
 						{
 							"auto_name": "#include <iostream",
-							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -340,6 +349,34 @@
 				},
 				{
 					"buffer": 5,
+					"file": "header.txt",
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 296.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "racecars.txt",
 					"settings":
 					{
@@ -365,7 +402,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "depths.txt",
 					"settings":
 					{
@@ -459,7 +496,7 @@
 		[
 			[
 				"",
-				"/Z/C++ Repositories/Final Project/Final Project.sublime-project"
+				"/C/Nova Drivu/C++ Repositories/AI_Project/AI_Project.sublime-project"
 			]
 		],
 		"width": 380.0
